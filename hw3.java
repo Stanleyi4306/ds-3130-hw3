@@ -2,7 +2,7 @@ import java.util.Stack;
 import java.util.Queue;
 import java.util.LinkedList;
 
-public class hw2 {
+public class hw3 {
     /**
      * Name: Stanley Ihunyere
      * Programming Language: Java
